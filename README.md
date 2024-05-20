@@ -50,6 +50,6 @@ For support or inquiries, please reach out through our in-app chat or contact us
 Stay connected with us on social media for the latest updates and news.
 
 - **Twitter:** [@Myaza](https://twitter.com/myazahq)
-- **LinkedIn:** [Myaza]([https://www.linkedin.com/company/myazahq)
+- **LinkedIn:** [Myaza](https://www.linkedin.com/company/myazahq)
 
 Thank you for choosing Myaza, and we look forward to making financial transactions simpler and more accessible for everyone in Africa.
